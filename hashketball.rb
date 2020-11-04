@@ -4,7 +4,7 @@ def game_hash
     home: {
       team_name: "Brooklyn Nets",
       colors: ["Black", "White"], 
-      players: [
+      players: {
         "Alan Anderson" => {
           number: 0, 
           shoe: 16, 
@@ -55,7 +55,7 @@ def game_hash
           blocks: 11, 
           slam_dunks: 1
         }
-      ]
+      }
     },
     away: {
       team_name: "",
