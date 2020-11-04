@@ -50,7 +50,7 @@ def game_hash
           slam_dunks: 5
         },
         :jason_terry => {
-          player_name: "Jason Terry"
+          player_name: "Jason"
           number: 31, 
           shoe: 15, 
           points: 19, 
