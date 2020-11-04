@@ -25,7 +25,7 @@ def game_hash
           blocks: 12, 
           slam_dunks: 7
         },
-        {playaer_name: "Brook Lopez",
+        {player_name: "Brook Lopez",
           number: 11, 
           shoe: 17, 
           points: 17, 
@@ -45,7 +45,7 @@ def game_hash
           blocks: 8, 
           slam_dunks: 5
         },
-        {"Jason Terry",
+        {player_name: "Jason Terry",
           number: 31, 
           shoe: 15, 
           points: 19, 
