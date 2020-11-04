@@ -6,7 +6,14 @@ def game_hash
       colors: ["Black", "White"], 
       players: {
         "Alan Anderson" => {
-          
+          number: 0, 
+          shoe:
+          points: 
+          rebounds:
+          assists:
+          steals:
+          blocks:
+          slam_dunks:
         }
       }
     },
