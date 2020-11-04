@@ -1,9 +1,11 @@
 # Write your code here!
 def game_hash 
-  {home: {
-    team_name: ""
-    colors: []
-    players: [{}]
+  game_hash = {home: {
+    team_name: "Brooklen Nets"
+    colors: ["Black", "White"]
+    players: [{
+      
+    }]
     
   }, 
   away: {
@@ -12,3 +14,5 @@ def game_hash
     players:
   }
   }
+  
+end 
